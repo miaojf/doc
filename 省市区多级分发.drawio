@@ -1,1 +1,138 @@
-<mxfile host="www.draw.io" modified="2019-12-23T08:42:02.993Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3941.4 Safari/537.36" etag="yIsYF11Ejv9iptmxa5qu" version="12.4.3" type="github" pages="1"><diagram id="Hj8zmeA7K8uZ-p57tDc3" name="第 1 页">7Vtbc6M2FP41etwdLpIQj2Dj7kzb6c7kod2nDmsrNi22vBjHdn99JSHAIOLgBiy7k0wmkQ66nvPpk3Q4AHeyPv6UxdvVr2xBU+BYiyNwp8BxbM+y+T8hORUS4viFYJklC1WoFjwl/1AltJR0nyzorlEwZyzNk21TOGebDZ3nDVmcZezQLPbM0mav23hJNcHTPE516e/JIl+Vs/Bq+ReaLFdlzzZW81vHZWE1k90qXrDDmciNgDvJGMuL1Po4oalQXqmXot7slafVwDK6yftU8N3V9utvh0kyfZl/+XM6+Tn+4X2C5eDyUzljuuAKUFmW5Su2ZJs4jWppmLH9ZkFFsxbP1WV+YWzLhTYX/kXz/KSsGe9zxkWrfJ2qp0WfoqNX56JEO7bP5vTCBFxHgSLOljS/VNCtdM7BStma5tmJV8xoGufJS3MksULNsipXK5YnlG6v0HM5zJc43auudMWnKUe1UPBhleT0aRvLmR/4wupS3wvNcnq8rEB9umWFcn2pZelCVOQPNch9VWR1hm9ijaQgaOv6GB+IXFvZ6Q9VX2a+icxnVGanx/OH05PKDQlgty+AoUkAI/RI9lnEu5Xsd2i26WssaNZY+MNY1xgLGd0aXH1riDzgTwDRObFppPH3Ccdr7RPY0vYJ0rFPoNH2iY5987EOLLAv3xtFJfIfiUJ2ecb+phOWskyO1bXkz5jk0teM0DdKLlAjlxBECIQEEH0l3ZpdoPM2u3SdQkdjF9fTufix6Qb3phtsFKdIx6ktgEomIAyMAxX3AKpt3RSpRvh5SALFfYFJjAITd5zOOCwRCAiIfEBcmeBZCAiUBzcLECwlkUCvg1M+u/B7xlNLkZLVCfB9EBEQzoAfikRgi8IRlMwclgkLRBgEUxDot69bLwHi390SID3I+pY+FQu2VIScz7pbpVNJGI2kJGRkA7u3qyDsfVozSjbI/TDWNcbyjBoLfhjrGmMZPV9C/R4UDHQP6tDsoJci2/SlCHkmgD4aYFFPwKJXzHQjdiEf7HKNsSyTxoL67XXyIOyCSkefKXbBj36RfffGpqp+ZQnvur5vtV0OXssCxZpQtVpGqIbxDkzrF9/AHcgjMzSosdXUlQNN302xYfquGftbg7BHf50NvZ6MjY2+IYW6ozdwHgTdNjKObiMnwgrdtilsk8fAtu4XC4bypY+NbeNOxXKXvQ/itm8Ibv8xwO1r4A7vlrhbRzjo9PQGj4dus95g2xC2S33eObbLYZ5fIx8F29j4ocQzHEFqjLlRGRd/5+i2dXTf7bGk7SUxf6HUHdg63Pu+7Ix32+JbiefkKNQ2yPthzV+hb3ZOh8ac0TSmO+VMEMSAC93t6w1990Lvdkl5bROT1lvrYgaaS0r3bbVjCdoNjezb8jpCblWcxjOTA60xgn/sWfng005amZOVZcPtsX5Yx3aUgbs8wUkt8ERsBwmEG5hL+N/QF5THy6ioERkjEmEZEWLJsI9Q/ApaDERQiGgwkJElGPi8TRlZQiwZPjID4URW94WE+LKdEAS+kIhhWDKyBMvxyAgVv3jpxavbKsQkOHsNVnFxMTDROxbNhud9FQMj8pGlZurzlmdns6j60ruopqPNVBmAG7SwgdJoe8lyhsqbK6wZ/LlhG7Fun5M0bYniNFlueHbOFx7l8lDwXTKP00A9WCeLRfoafTaJYOgNx2l7MLsuwrCDPkf7IMfr2HDOzajQfYaLK0B9Acs6vv4buqtzRWf8VaTG047a0od6PrAiaksfYVXmwlLoWnZqtV1YE2+Cvz+oM8rZK/4umxIQ3gp2lahBIUBToRneHN+/CpIb7gsCt4Fs0nEswB3AdkcDdse5IJKW9QMF7HAm8TwFxFP2Kkjxbeb7X5uyPMFXrw6JzlFomCMez9Zfxhbbfv19sRv9Cw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-24T07:20:42.963Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3941.4 Safari/537.36" etag="V1Q0JfpgcxO-iSUH9SKB" version="12.4.3" type="github" pages="1">
+  <diagram id="Hj8zmeA7K8uZ-p57tDc3" name="第 1 页">
+    <mxGraphModel dx="1684" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-32" target="93hpPOwCiDvcH_DCKaq7-33" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-32" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="345" width="90" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="93hpPOwCiDvcH_DCKaq7-33" target="93hpPOwCiDvcH_DCKaq7-34" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-33" target="93hpPOwCiDvcH_DCKaq7-44" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-33" target="93hpPOwCiDvcH_DCKaq7-45" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-33" value="省" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="360" width="80" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-34" target="93hpPOwCiDvcH_DCKaq7-35" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-34" target="93hpPOwCiDvcH_DCKaq7-49" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-34" value="B市" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="360" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93hpPOwCiDvcH_DCKaq7-35" target="h_-ih8uBrh7oukzWYerw-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-35" value="B1区" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="360" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_-ih8uBrh7oukzWYerw-5" target="93hpPOwCiDvcH_DCKaq7-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="385" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-5" value="B市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-36" target="93hpPOwCiDvcH_DCKaq7-38" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-36" value="全部处理完&lt;br&gt;则进行下一步" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="360" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-38" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="352.5" width="100" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-44" target="93hpPOwCiDvcH_DCKaq7-48" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-44" target="93hpPOwCiDvcH_DCKaq7-47" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-44" target="93hpPOwCiDvcH_DCKaq7-46" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-44" value="A市" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="160" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-45" target="93hpPOwCiDvcH_DCKaq7-51" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="93hpPOwCiDvcH_DCKaq7-45" target="93hpPOwCiDvcH_DCKaq7-50" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-45" value="C市" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="559" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="93hpPOwCiDvcH_DCKaq7-46" target="h_-ih8uBrh7oukzWYerw-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-46" value="A3区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="240" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="93hpPOwCiDvcH_DCKaq7-47" target="h_-ih8uBrh7oukzWYerw-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-47" value="A2区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="150" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="h_-ih8uBrh7oukzWYerw-1" target="93hpPOwCiDvcH_DCKaq7-36">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-1" value="A市" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="150" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="93hpPOwCiDvcH_DCKaq7-48" target="h_-ih8uBrh7oukzWYerw-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-48" value="A1区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="60" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="93hpPOwCiDvcH_DCKaq7-49" target="h_-ih8uBrh7oukzWYerw-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-49" value="B2区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="425" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="93hpPOwCiDvcH_DCKaq7-50" target="h_-ih8uBrh7oukzWYerw-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-50" value="C2区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="650" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="93hpPOwCiDvcH_DCKaq7-51" target="h_-ih8uBrh7oukzWYerw-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-51" value="C1区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="540" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="h_-ih8uBrh7oukzWYerw-10" target="93hpPOwCiDvcH_DCKaq7-36">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="h_-ih8uBrh7oukzWYerw-10" value="C1区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="540" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-73" value="&lt;font style=&quot;font-size: 14px&quot;&gt;省级节点在完成任务的时候，选择需要多少个市区审批，动态生成多个市的任务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="260" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-74" value="市级，在完成任务时候，动态选择需要多少区&lt;br&gt;去处理任务，则动态，生成多少个区的任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="273" y="85" width="260" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="93hpPOwCiDvcH_DCKaq7-75" value="虚线均为动态生成的任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="51" y="558" width="150" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
